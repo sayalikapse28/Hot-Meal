@@ -1,5 +1,5 @@
 # Hot-Food
-> Food Delivery Website built with Django and Bootstrap
+> Food Delivery Website built with HTML, CSS, JS, Python, Django 
 # Demo:
 ## Homepage
 ![](demo/home.png)
